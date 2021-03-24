@@ -7,4 +7,5 @@ Demo Informationen ueber die Applikation
 Änderung der Datei
 GitHub
 
-### Subheader 2
+### Local Development
+1. Open index.html in browser
